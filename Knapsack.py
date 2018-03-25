@@ -1,6 +1,4 @@
 
-# Ayberk SUNAL
-# 113200034
 # instructor: Elena Battini Sonmez / Mujde Aktas
 
 def knapsack(items,weightback):
